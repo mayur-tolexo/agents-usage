@@ -41,3 +41,8 @@ follows them without being reminded.
 3. Encode your rules once (permissions, hooks, memory, skills) so you stop repeating them.
 4. Make the agent verify its own work, and verify it yourself in a second way.
 5. Keep the risky actions (push, deploy, delete) behind a human.
+
+## Contributing & license
+
+Improvements are welcome — see `CONTRIBUTING.md` for how to propose a change and
+the style to match. The guide is MIT-licensed (`LICENSE`).
