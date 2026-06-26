@@ -11,8 +11,10 @@ not from the model. The chapters below are the habits, one topic each.
 ## How to read this
 
 If you're new, read `00-principles.md` first, then `09-claude-code-playbook.md`.
-Those two give you the mindset and the daily moves. Everything else you can read
-on demand when you hit that topic.
+Those two give you the mindset and the daily moves. For the whole thing as a
+single worked example — one task from fresh session to merged PR — read
+`11-a-day-in-the-workflow.md`. Everything else you can read on demand when you hit
+that topic.
 
 If you're setting up a repo for a team, start with `02-permissions-guardrails.md`
 and `03-memory-and-skills.md` — that's where you encode the rules so the agent
@@ -33,6 +35,7 @@ follows them without being reminded.
 | 8 | `08-understand-before-design.md` | Understand the real problem and use-cases before designing |
 | 9 | `09-claude-code-playbook.md` | The daily tips, condensed |
 | 10 | `10-plugins-and-extensions.md` | Plugins, skills, and MCP servers worth adopting |
+| 11 | `11-a-day-in-the-workflow.md` | The whole loop as one worked example, start to finish |
 
 ## Hands-on workshop
 
