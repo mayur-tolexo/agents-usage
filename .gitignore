@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+*.swp
+
+# Local, uncommitted working notes (design docs etc. stay local)
+/local/
