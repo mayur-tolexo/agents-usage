@@ -36,6 +36,14 @@ follows them without being reminded.
 | 9 | `09-claude-code-playbook.md` | The daily tips, condensed |
 | 10 | `10-plugins-and-extensions.md` | Plugins, skills, and MCP servers worth adopting |
 | 11 | `11-a-day-in-the-workflow.md` | The whole loop as one worked example, start to finish |
+| 12 | `12-claude-code-reference.md` | The concrete Claude Code commands/features, aligned with the official best-practices doc |
+
+## Ready-to-use agents
+
+`agents/` holds four copy-ready persona sub-agents — a code reviewer, a design
+brainstormer, an RFC writer, and a disciplined implementer — that bake the habits
+in this guide into focused agents. They form a natural pipeline (brainstorm → RFC
+→ code → review). See `agents/README.md` to install them.
 
 ## Hands-on workshop
 
