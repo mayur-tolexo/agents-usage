@@ -34,6 +34,13 @@ follows them without being reminded.
 | 9 | `09-claude-code-playbook.md` | The daily tips, condensed |
 | 10 | `10-plugins-and-extensions.md` | Plugins, skills, and MCP servers worth adopting |
 
+## Hands-on workshop
+
+The chapters above are read-and-apply. `workshop/` is a facilitator's kit for
+running a live ~2.5-hour hands-on session where the team practices the seven
+highest-leverage habits on their own repositories. Start at
+`workshop/README.md`.
+
 ## The whole thing in five lines
 
 1. Context is like milk — fresh and condensed beats large and stale.
